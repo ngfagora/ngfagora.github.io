@@ -4,11 +4,10 @@ title: Long Haul
 ---
 
 <div class="home" id="home">
-	<h1 class="pageTitle">Recent Posts</h1>
+	<h1 class="pageTitle">Posts</h1>
 	<div class="posts noList">
 		{%- for post in paginator.posts -%}
 		<article>
-			<span class="date">{{ post.date | date: '%B %d, %Y' }}</span>
 			<h3>
 				<a class="post-link" href="{{ post.url | relative_url }}">{{ post.title }}</a>
 			</h3>
