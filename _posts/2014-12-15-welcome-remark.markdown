@@ -2,8 +2,11 @@
 layout: post
 title:  "Welcome!"
 date:   2023-12-29
-description: The workshop will be held in ...
+description: NGFⓧDwarwin will be held in Seoul from 7 to 10 May 2024.
 ---
 
-<p class="intro">Welcome.</p>
+<p class="intro">The workshop will be held 
+</p>
+
+
 
