@@ -1,7 +1,8 @@
 title: "NGFⓧAGORA in Asia: 2024 Spring Workshop"
 description: NGFxAGORA Spring Workshop Homepage
 
-url: https://long-haul.netlify.app
+url: https://ngfagora.github.io/
+# long-haul.netlify.app
 # Only necessary when hosting your site in a sub-directory. Project sites hosted on GitHub Pages are the common use-case of this variable.
 baseurl: # Ex: /project-page
 paginate_path: "blog/page:num/"
