@@ -4,5 +4,7 @@ title:  "Photos"
 date:   2023-12-12
 ---
 
-<p class="intro">Photos.</p>
+<p class="intro">LOC: Ji-hoon Kim, Minyong Jung, Seungjae Lee, Junyong Park, Hyeonyong Kim<br>
+  SOC: Ji-hoon Kim
+</p>
 
