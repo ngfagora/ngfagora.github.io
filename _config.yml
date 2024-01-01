@@ -4,7 +4,7 @@ description: NGFxAGORA Spring Workshop Homepage
 url: https://ngfagora.github.io/
 # long-haul.netlify.app
 # Only necessary when hosting your site in a sub-directory. Project sites hosted on GitHub Pages are the common use-case of this variable.
-baseurl: # Ex: /project-page
+baseurl: /home # Ex: /project-page
 paginate_path: "blog/page:num/"
 permalink: blog/:title/
 
