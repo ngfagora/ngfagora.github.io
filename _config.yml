@@ -21,7 +21,7 @@ paginate: 5
 
 navigation:
     - title: Home
-      url: /home
+      url: /index
     - title: Program
       url: /program
     - title: Participants
