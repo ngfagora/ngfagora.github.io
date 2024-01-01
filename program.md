@@ -5,10 +5,9 @@ title: Program
 
 <div class="post">
 	<h1 class="pageTitle">Program</h1>
-	<p class="intro">TBA</p>
 </div>
 
-## Tentative Schedule 
+### Tentative Schedule 
 
 |  | May 6 (Mon.) | May 7 (Tue.) | May 8 (Wed.) | May 9 (Thu.) | May 10 (Fri.) |
 |---|---|---|---|---|---|
