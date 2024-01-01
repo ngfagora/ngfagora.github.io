@@ -6,7 +6,6 @@ title: Program
 <div class="post">
 	<h1 class="pageTitle">Program</h1>
 </div>
-### Tentaive Schedule
 
 <div>
 <style type="text/css">
