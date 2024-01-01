@@ -8,5 +8,5 @@ title: Program
 </div>
 
 <div>
-TBA.
+TBA
 </div>
