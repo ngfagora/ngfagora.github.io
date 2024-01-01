@@ -6,33 +6,9 @@ title: Long Haul
 <div class="home" id="home">
  The NGFⓧAGORA workshop will be held at Seoul National University from May 7 to 10, 2024. This workshop aims to bring together researchers from around the world for open and active discussions on numerical galaxy formation.
 It will also facilitate discussions about ongoing and future projects within the AGORA project. <br> Details regarding registration will be announced soon.
-	<div class="posts noList">
-		{%- for post in paginator.posts -%}
-		<article>
-			<h3>
-				<a class="post-link" href="{{ post.url | relative_url }}">{{ post.title }}</a>
-			</h3>
-			<p>
-				{%- if post.description -%}{{ post.description }}{%- else -%}{{
-				post.excerpt | strip_html }}{%- endif -%}
-			</p>
-		</article>
-		{%- endfor -%}
-	</div>
-	<!-- Pagination links -->
-	<div class="pagination">
-		{%- if paginator.previous_page -%}
-		<a
-			href="{{ paginator.previous_page_path | relative_url }}"
-			class="previous button__outline"
-			>Newer Posts</a
-		>
-		{%- endif -%} {%- if paginator.next_page -%}
-		<a href="{{ paginator.next_page_path | relative_url }}" class="next button__outline"
-			>Older Posts</a
-		>
-		{%- endif -%}
-	</div>
+
+<p>
 LOC: Ji-hoon Kim, Minyong Jung, Seungjae Lee, Junyong Park, Hyeonyong Kim <br>
 SOC: Ji-hoon Kim
+</p>
 </div>
