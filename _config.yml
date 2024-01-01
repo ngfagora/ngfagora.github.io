@@ -21,10 +21,10 @@ paginate: 5
 navigation:
     - title: Home
       url: /index.html
-    - title: Participants
-      url: /participants
     - title: Program
       url: /program
+    - title: Participants
+      url: /participants
     - title: Venue & Travel
       url: /venue
     - title: Contact Us
