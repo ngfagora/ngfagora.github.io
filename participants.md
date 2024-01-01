@@ -9,7 +9,7 @@ title: Participants
 
 | Last Name | First name | Affiliation | NGF workshop (Mar. 12-13) | AGORA workshop (Mar. 14-15) |
 |---|---|---|---|---|
-| Ji-hoon | Kim | Seoul National University | o | o |
-| Minyong | Jung | Seoul National University | o | o |
+| Jung | Minyong | Seoul National University | o | o |
+| Kim | Ji-hoon | Seoul National University | o | o |
 |  |  |  |  |  |
 |  |  |  |  |  |
