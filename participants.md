@@ -26,6 +26,13 @@ title: Participants
 </thead>
 <tbody>
   <tr>
+    <td class="tg-0pky">Ji-hoon</td>
+    <td class="tg-0pky">Kim</td>
+    <td class="tg-0pky">Seoul National University</td>
+    <td class="tg-0pky">o</td>
+    <td class="tg-0pky">o</td>
+  </tr>
+  <tr>
     <td class="tg-0pky">Jung</td>
     <td class="tg-0pky">Minyong</td>
     <td class="tg-0pky">Seoul National University</td>
@@ -76,4 +83,5 @@ title: Participants
   </tr>
 </tbody>
 </table>
+
 </div>
