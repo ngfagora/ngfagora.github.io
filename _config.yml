@@ -24,13 +24,15 @@ navigation:
       url: /index
     - title: Program
       url: /program
+    - title: Registration
+      url: /registration
     - title: Participants
       url: /participants
     - title: Venue & Travel
       url: /venue
     - title: Contact Us
       url: /contact
-
+    
 social:
     email: wispedia@snu.ac.kr
 
