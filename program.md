@@ -8,7 +8,7 @@ title: Program
 </div>
 
 <div>
-<h3>Program at a Glance</h3>h3>
+<h3>Program at a Glance</h3>
 <style type="text/css">
 .tg  {border-collapse:collapse;border-color:#aaa;border-spacing:0;}
 .tg td{background-color:#fff;border-color:#aaa;border-style:solid;border-width:1px;color:#333;
