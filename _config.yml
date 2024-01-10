@@ -1,4 +1,4 @@
-title: "2nd Bosan Workshop:<br> AGORA in Asia + 5th Numerical Galaxy Formation Meeting in Korea"
+title: "The 2nd CTP Bosan Workshop"
 description: NGFxAGORA Spring Workshop Homepage
 
 url: https://ngfagora.github.io/
@@ -20,18 +20,14 @@ plugins: [jekyll-paginate]
 paginate: 5
 
 navigation:
-    - title: Home
+    - title: Rationale & Registration
       url: /index
     - title: Program
       url: /program
-    - title: Registration
-      url: /registration
     - title: Participants
       url: /participants
     - title: Venue & Travel
       url: /venue
-    - title: Contact Us
-      url: /contact
     
 social:
     email: wispedia@snu.ac.kr

@@ -2,13 +2,21 @@
 layout: default
 title: Program
 ---
-
+<style>
+  .post p, 
+  .post ul, 
+  .post ol, 
+  .post dl {
+    font-size: 80%; /* Adjust the percentage to your desired font size */
+  }
+</style>
+  
 <div class="post">
 	<h1 class="pageTitle">Program</h1>
 </div>
 
-<div>
-<h3>Program at a Glance</h3>
+<div class="post">
+<h4>Program at a Glance</h4>
 <style type="text/css">
 .tg  {border-collapse:collapse;border-color:#aaa;border-spacing:0;}
 .tg td{background-color:#fff;border-color:#aaa;border-style:solid;border-width:1px;color:#333;
