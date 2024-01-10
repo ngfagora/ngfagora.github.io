@@ -18,76 +18,108 @@ title: Program
 <div class="post">
 <h4>Program at a Glance</h4>
 <style type="text/css">
-.tg  {border-collapse:collapse;border-color:#aaa;border-spacing:0;}
-.tg td{background-color:#fff;border-color:#aaa;border-style:solid;border-width:1px;color:#333;
-  font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{background-color:#f38630;border-color:#aaa;border-style:solid;border-width:1px;color:#fff;
-  font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-7f95{background-color:#fffc9e;border-color:inherit;font-size:small;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-gs98{background-color:#ce6301;border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-3zjg{border-color:inherit;font-size:small;text-align:center;vertical-align:top}
-.tg .tg-wu7u{background-color:#c0c0c0;border-color:inherit;font-size:small;text-align:center;vertical-align:top}
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-36r9{font-size:small;text-align:center;vertical-align:top}
+.tg .tg-1rux{background-color:#CE6301;font-size:100%;text-align:left;vertical-align:middle}
+.tg .tg-hd7q{background-color:#CE6301;color:#FFF;font-size:100%;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-11yo{background-color:#FFFC9E;font-size:small;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-qstx{font-size:small;text-align:center;vertical-align:middle}
+.tg .tg-5qt9{font-size:small;text-align:left;vertical-align:top}
+.tg .tg-er8d{background-color:#C0C0C0;font-size:small;text-align:center;vertical-align:top}
+.tg .tg-seu7{background-color:#FFF;color:#333;font-size:small;text-align:center;vertical-align:top}
 </style>
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-gs98"></th>
-    <th class="tg-gs98">May 6 (Mon.)</th>
-    <th class="tg-gs98">May 7 (Tue.)</th>
-    <th class="tg-gs98">May 8 (Wed.)</th>
-    <th class="tg-gs98">May 9 (Thu.)</th>
-    <th class="tg-gs98">May 10 (Fri.)</th>
+    <th class="tg-1rux"></th>
+    <th class="tg-hd7q"><span style="font-weight:bold;color:#FFF;background-color:#CE6301">May 6 (Mon.)</span></th>
+    <th class="tg-hd7q"><span style="font-weight:bold;color:#FFF;background-color:#CE6301">May 7 (Tue.)</span></th>
+    <th class="tg-hd7q"><span style="font-weight:bold;color:#FFF;background-color:#CE6301">May 8 (Wed.)</span></th>
+    <th class="tg-hd7q"><span style="font-weight:bold;color:#FFF;background-color:#CE6301">May 9 (Thu.)</span></th>
+    <th class="tg-hd7q"><span style="font-weight:bold;color:#FFF;background-color:#CE6301">May 10 (Fri.)</span></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-7f95">Location</td>
-    <td class="tg-7f95">TBA</td>
-    <td class="tg-7f95">Bldg 500, Mokam Hall</td>
-    <td class="tg-7f95">Bldg 500, Mokam Hall</td>
-    <td class="tg-7f95">TBA</td>
-    <td class="tg-7f95">TBA</td>
+    <td class="tg-11yo"><span style="font-weight:bold;background-color:#FFFC9E">Location</span></td>
+    <td class="tg-11yo"><span style="font-weight:bold;background-color:#FFFC9E">TBA</span></td>
+    <td class="tg-11yo"><span style="font-weight:bold;background-color:#FFFC9E">Bldg 500, Mokam Hall</span></td>
+    <td class="tg-11yo"><span style="font-weight:bold;background-color:#FFFC9E">Bldg 500, Mokam Hall</span></td>
+    <td class="tg-11yo"><span style="font-weight:bold;background-color:#FFFC9E">TBA</span></td>
+    <td class="tg-11yo"><span style="font-weight:bold;background-color:#FFFC9E">TBA</span></td>
   </tr>
   <tr>
-    <td class="tg-3zjg">09:30-12:00</td>
-    <td class="tg-3zjg" rowspan="4">Reception</td>
-    <td class="tg-3zjg">Talk</td>
-    <td class="tg-3zjg">Talk</td>
-    <td class="tg-3zjg">AGORA</td>
-    <td class="tg-3zjg">AGORA</td>
+    <td class="tg-qstx"><span style="font-weight:normal">9:30-10:00</span></td>
+    <td class="tg-5qt9" rowspan="11"></td>
+    <td class="tg-36r9" rowspan="3">Talk</td>
+    <td class="tg-36r9" rowspan="3">Talk</td>
+    <td class="tg-36r9" rowspan="3">AGORA</td>
+    <td class="tg-36r9" rowspan="3">AGORA</td>
   </tr>
   <tr>
-    <td class="tg-3zjg">12:00-13:30</td>
-    <td class="tg-wu7u">Lunch</td>
-    <td class="tg-wu7u">Lunch</td>
-    <td class="tg-wu7u">Lunch</td>
-    <td class="tg-wu7u">Lunch</td>
+    <td class="tg-qstx"><span style="font-weight:normal">10:00-10:30</span></td>
   </tr>
   <tr>
-    <td class="tg-3zjg">13:30-15:00</td>
-    <td class="tg-3zjg">Talk</td>
-    <td class="tg-3zjg"><span style="font-weight:400;font-style:normal;text-decoration:none">Planetarium tour</span></td>
-    <td class="tg-3zjg">AGORA</td>
-    <td class="tg-3zjg">AGORA</td>
+    <td class="tg-qstx">11:30-12:00</td>
   </tr>
   <tr>
-    <td class="tg-3zjg">15:00-16:00</td>
-    <td class="tg-3zjg">Talk</td>
-    <td class="tg-3zjg" rowspan="3"></td>
-    <td class="tg-3zjg" rowspan="2">AGORA w/ remote session</td>
-    <td class="tg-3zjg" rowspan="2"><span style="font-weight:400;font-style:normal">AGORA w/ remote session</span></td>
+    <td class="tg-qstx">12:00-12:30</td>
+    <td class="tg-er8d" rowspan="3">Lunch</td>
+    <td class="tg-er8d" rowspan="3">Lunch</td>
+    <td class="tg-er8d" rowspan="3">Lunch</td>
+    <td class="tg-er8d" rowspan="3">Lunch</td>
   </tr>
   <tr>
-    <td class="tg-3zjg">16:00-18:00</td>
-    <td class="tg-3zjg" rowspan="2"></td>
-    <td class="tg-3zjg"><span style="font-weight:400;font-style:normal">CTP+SNUARC colloquium</span></td>
+    <td class="tg-qstx">12:30-13:00</td>
   </tr>
   <tr>
-    <td class="tg-3zjg">18:00-</td>
-    <td class="tg-3zjg"><span style="font-weight:400;font-style:normal">Banquet</span></td>
-    <td class="tg-3zjg">Smaller Banquet</td>
-    <td class="tg-3zjg"></td>
+    <td class="tg-qstx">13:00-13:30</td>
+  </tr>
+  <tr>
+    <td class="tg-qstx">13:30-14:00</td>
+    <td class="tg-36r9" rowspan="5">Talk</td>
+    <td class="tg-36r9" rowspan="3">Planetarium tour</td>
+    <td class="tg-36r9" rowspan="3">AGORA</td>
+    <td class="tg-36r9" rowspan="3">AGORA</td>
+  </tr>
+  <tr>
+    <td class="tg-qstx">14:00-14:30</td>
+  </tr>
+  <tr>
+    <td class="tg-qstx">14:30-15:00</td>
+  </tr>
+  <tr>
+    <td class="tg-qstx">15:00-15:30</td>
+    <td class="tg-5qt9" rowspan="7"></td>
+    <td class="tg-36r9" rowspan="6">AGORA w/ remote session</td>
+    <td class="tg-36r9" rowspan="6">AGORA w/ remote session</td>
+  </tr>
+  <tr>
+    <td class="tg-qstx">15:30-16:00</td>
+  </tr>
+  <tr>
+    <td class="tg-qstx">16:00-16:30</td>
+    <td class="tg-36r9" rowspan="5">Reception</td>
+    <td class="tg-seu7" rowspan="4">CTP+SNUARC colloquium</td>
+  </tr>
+  <tr>
+    <td class="tg-qstx">16:30-17:00</td>
+  </tr>
+  <tr>
+    <td class="tg-qstx">17:00-17:30</td>
+  </tr>
+  <tr>
+    <td class="tg-qstx">17:30-18:00</td>
+  </tr>
+  <tr>
+    <td class="tg-qstx">18:00-</td>
+    <td class="tg-qstx">Banquet</td>
+    <td class="tg-qstx">Smaller Banquet</td>
+    <td class="tg-5qt9"></td>
   </tr>
 </tbody>
-</table>
-</div>
+</table></div>
