@@ -127,7 +127,7 @@ title: Program
   </tr>
   <tr>
     <td class="tg-9wq8">16:00-16:30</td>
-    <td class="tg-c3ow" rowspan="5">Rregistration</td>
+    <td class="tg-c3ow" rowspan="5">Check-in</td>
     <td class="tg-baqh" rowspan="4">CTP+SNUARC colloquium</td>
   </tr>
   <tr>
