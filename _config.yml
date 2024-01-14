@@ -28,8 +28,6 @@ navigation:
       url: /participants
     - title: Venue & Travel
       url: /venue
-    - title: Local Attractions
-      url: /attraction
 social:
     email: wispedia@snu.ac.kr
 
