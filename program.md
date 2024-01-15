@@ -188,3 +188,18 @@ title: Program
     </div>
 </body>
 
+<body>
+    <div class="post">
+        <div>
+		<h4>Planetarium tour</h4>
+		<p>We will vs.</p>
+        </div>
+        <div class="image">
+		<figure>
+			<img src="{{ '/assets/img/cosmoshall' | relative_url }}" alt="Cosmos Hall">
+		  	<figcaption>Nancy Abrams and Joel Primack</figcaption>
+		</figure>
+        </div>
+    </div>
+</body>
+
