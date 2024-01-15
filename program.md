@@ -172,10 +172,10 @@ title: Program
     <div class="post">
         <div>
 		<h4>CTP+SNUARC colloquium</h4>
-		<p>Joel Primack and Nancy Abrams (his wife; author/lawyer/composer) to give a special CTP+SNUARC colloquium on May 7 (Tue).</p>
+		<p>Joel Primack and Nancy Abrams will give a special CTP+SNUARC colloquium on May 7 (Tue).</p>
         </div>
         <div class="image">
-		<img src="{{ '/assets/img/Primack_and_Abrams.jpeg' | relative_url }}" alt="Campus Map">
+		<img src="{{ '/assets/img/Primack_and_Abrams.jpeg' | relative_url }}" alt="Primack and Abrams">
         </div>
     </div>
 </body>
