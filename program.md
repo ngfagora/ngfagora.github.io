@@ -148,9 +148,7 @@ title: Program
 </tbody>
 </table>
 
-<h4>Check-in</h4>
-
-
-
+<h4>CTP+SNUARC colloquium</h4>
+<p>Joel Primack and Nancy Abrams (his wife; author/lawyer/composer) to give a special CTP+SNUARC colloquium on May 7 (Tue).</p>
 
 </div>
