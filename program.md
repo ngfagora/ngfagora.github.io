@@ -195,6 +195,7 @@ title: Program
 		</li>
 		<li>Joel R. Primack is a professor of physics and astrophysics at the University of California, Santa Cruz and is a member of the Santa Cruz Institute for Particle Physics. He specializes in the formation and evolution of galaxies and the nature of the dark matter that makes up most of the matter in the universe. 
 		</li>
+	</ul>
 	<h4>Planetarium tour</h4>
 	<p>We will visit the cosmos hall, where the vast domed ceiling comes alive with the dazzling display of the night sky.  </p>
 </div>
