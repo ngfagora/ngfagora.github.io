@@ -175,7 +175,10 @@ title: Program
 		<p>Joel Primack and Nancy Abrams will give a special CTP+SNUARC colloquium on May 7 (Tue).</p>
         </div>
         <div class="image">
-		<img src="{{ '/assets/img/Primack_and_Abrams.jpeg' | relative_url }}" alt="Primack and Abrams">
+		<figure>
+			<img src="{{ '/assets/img/Primack_and_Abrams.jpeg' | relative_url }}" alt="Primack and Abrams">
+		  	<figcaption>Nancy Abrams and Joel Primack</figcaption>
+		</figure>
         </div>
     </div>
 </body>
