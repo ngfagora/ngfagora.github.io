@@ -192,7 +192,7 @@ title: Program
     <div class="post">
         <div>
 		<h4>Planetarium tour</h4>
-		<p>We will visit the cosmos hall. </p>
+		<p>We will visit the cosmos hall, where the vast domed ceiling comes alive with the dazzling display of the night sky.  </p>
         </div>
         <div class="image">
 		<figure>
