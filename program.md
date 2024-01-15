@@ -10,7 +10,24 @@ title: Program
     font-size: 80%; /* Adjust the percentage to your desired font size */
   }
 </style>
-  
+
+<head>
+    <style>
+        .container {
+            width: 100%;
+        }
+        .text {
+            width: 50%;
+            float: left;
+        }
+        .image {
+            width: 50%;
+            float: right;
+        }
+    </style>
+</head>
+
+ 
 <div class="post">
 	<h1 class="pageTitle">Program</h1>
 </div>
@@ -148,7 +165,18 @@ title: Program
 </tbody>
 </table>
 
-<h4>CTP+SNUARC colloquium</h4>
-<p>Joel Primack and Nancy Abrams (his wife; author/lawyer/composer) to give a special CTP+SNUARC colloquium on May 7 (Tue).</p>
-
 </div>
+
+
+<body>
+    <div class="post">
+        <div>
+		<h4>CTP+SNUARC colloquium</h4>
+		<p>Joel Primack and Nancy Abrams (his wife; author/lawyer/composer) to give a special CTP+SNUARC colloquium on May 7 (Tue).</p>
+        </div>
+        <div class="image">
+		<img src="{{ '/assets/img/Primack_and_Abrams.jpeg' | relative_url }}" alt="Campus Map">
+        </div>
+    </div>
+</body>
+
