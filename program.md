@@ -184,17 +184,6 @@ title: Program
 			<img src="{{ '/assets/img/Primack_and_Abrams.jpeg' | relative_url }}" alt="Primack and Abrams">
 		  	<figcaption>Nancy Abrams and Joel Primack</figcaption>
 		</figure>
-        </div>
-    </div>
-</body>
-
-<body>
-    <div class="post">
-        <div>
-		<h4>Planetarium tour</h4>
-		<p>We will visit the cosmos hall, where the vast domed ceiling comes alive with the dazzling display of the night sky.  </p>
-        </div>
-        <div class="image">
 		<figure>
 			<img src="{{ '/assets/img/cosmoshall.jpeg' | relative_url }}" alt="Cosmos Hall">
 		</figure>
@@ -202,3 +191,7 @@ title: Program
     </div>
 </body>
 
+<div class="post">
+	<h4>Planetarium tour</h4>
+	<p>We will visit the cosmos hall, where the vast domed ceiling comes alive with the dazzling display of the night sky.  </p>
+</div>
