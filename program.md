@@ -175,10 +175,6 @@ title: Program
 
 <body>
     <div class="post">
-        <div>
-		<h4>CTP+SNUARC colloquium</h4>
-		<p>Joel Primack and Nancy Abrams will give a special CTP+SNUARC colloquium on May 7 (Tue).</p>
-        </div>
         <div class="image">
 		<figure>
 			<img src="{{ '/assets/img/Primack_and_Abrams.jpeg' | relative_url }}" alt="Primack and Abrams">
@@ -192,6 +188,9 @@ title: Program
 </body>
 
 <div class="post">
+	<h4>CTP+SNUARC colloquium</h4>
+	<p>Joel Primack and Nancy Abrams will give a special CTP+SNUARC colloquium on May 7 (Tue).</p>
+
 	<h4>Planetarium tour</h4>
 	<p>We will visit the cosmos hall, where the vast domed ceiling comes alive with the dazzling display of the night sky.  </p>
 </div>
