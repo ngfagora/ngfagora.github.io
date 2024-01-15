@@ -177,11 +177,11 @@ title: Program
     <div class="post">
         <div class="image">
 		<figure>
-			<img src="{{ '/assets/img/Primack_and_Abrams.jpeg' | relative_url }}" alt="Primack and Abrams">
+			<img src="{{ '/assets/img/Primack_and_Abrams.jpeg' | relative_url }}" alt="Primack and Abrams" style="margin-left: 20px;">
 		  	<figcaption>Nancy Abrams and Joel Primack</figcaption>
 		</figure>
 		<figure>
-			<img src="{{ '/assets/img/cosmoshall.jpeg' | relative_url }}" alt="Cosmos Hall">
+			<img src="{{ '/assets/img/cosmoshall.jpeg' | relative_url }}" alt="Cosmos Hall" style="margin-left: 20px;">
 		</figure>
         </div>
     </div>
