@@ -192,12 +192,11 @@ title: Program
     <div class="post">
         <div>
 		<h4>Planetarium tour</h4>
-		<p>We will vs.</p>
+		<p>We will visit the cosmos hall. </p>
         </div>
         <div class="image">
 		<figure>
-			<img src="{{ '/assets/img/cosmoshall' | relative_url }}" alt="Cosmos Hall">
-		  	<figcaption>Nancy Abrams and Joel Primack</figcaption>
+			<img src="{{ '/assets/img/cosmoshall.jpeg' | relative_url }}" alt="Cosmos Hall">
 		</figure>
         </div>
     </div>
