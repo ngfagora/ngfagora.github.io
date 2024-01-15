@@ -190,7 +190,13 @@ title: Program
 <div class="post">
 	<h4>CTP+SNUARC colloquium</h4>
 	<p>Joel Primack and Nancy Abrams will give a special CTP+SNUARC colloquium on May 7 (Tue).</p>
-
+	<ul>
+		<li>Nancy Ellen Abrams is a philosopher of science, a lawyer, and a lecturer at the University of California, Santa Cruz. She is most recently the author of A GOD THAT COULD BE REAL: SPIRITUALITY, SCIENCE, AND THE FUTURE OF OUR PLANET (Beacon Press, 2015), which won the 2015 USA Best Book award in philosophy.
+		</li>
+		<li>Joel R. Primack is a professor of physics and astrophysics at the University of California, Santa Cruz and is a member of the Santa Cruz Institute for Particle Physics. He specializes in the formation and evolution of galaxies and the nature of the dark matter that makes up most of the matter in the universe. 
+		</li>
 	<h4>Planetarium tour</h4>
 	<p>We will visit the cosmos hall, where the vast domed ceiling comes alive with the dazzling display of the night sky.  </p>
 </div>
+
+
