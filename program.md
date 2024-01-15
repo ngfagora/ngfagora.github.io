@@ -24,7 +24,12 @@ title: Program
             width: 25%;
             float: right;
         }
+	figcaption {
+	font-size: 80%;
+	}
     </style>
+
+  
 </head>
 
  
