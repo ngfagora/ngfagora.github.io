@@ -17,11 +17,11 @@ title: Program
             width: 100%;
         }
         .text {
-            width: 50%;
+            width: 75%;
             float: left;
         }
         .image {
-            width: 50%;
+            width: 25%;
             float: right;
         }
     </style>
