@@ -150,7 +150,7 @@ title: Program
   <tr>
     <td class="tg-9wq8">16:00-16:30</td>
     <td class="tg-c3ow" rowspan="5">Check-in</td>
-    <td class="tg-baqh" rowspan="4">CTP+SNUARC colloquium</td>
+    <td class="tg-baqh" rowspan="4">CTP+SNUARC<br>colloquium</td>
   </tr>
   <tr>
     <td class="tg-9wq8">16:30-17:00</td>
