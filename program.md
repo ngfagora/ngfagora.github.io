@@ -43,9 +43,9 @@ title: Program
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:3px 5px;word-break:normal;}
+  overflow:hidden;padding:3px 2px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:3px 5px;word-break:normal;}
+  font-weight:normal;overflow:hidden;padding:3px 2px;word-break:normal;}
 .tg .tg-d1ly{background-color:#C0C0C0;border-color:inherit;font-size:small;text-align:center;vertical-align:top}
 .tg .tg-dxi1{background-color:#FFFC9E;border-color:inherit;font-size:small;font-weight:bold;text-align:center;vertical-align:top}
 .tg .tg-vn83{background-color:#CE6301;border-color:inherit;font-size:small;text-align:left;vertical-align:top}
@@ -69,8 +69,8 @@ title: Program
   <tr>
     <td class="tg-dxi1"><span style="font-weight:bold;background-color:#FFFC9E">Location</span></td>
     <td class="tg-dxi1"><span style="font-weight:bold;background-color:#FFFC9E">TBA</span></td>
-    <td class="tg-dxi1"><span style="font-weight:bold;background-color:#FFFC9E">Bldg 500, Mokam Hall</span></td>
-    <td class="tg-dxi1"><span style="font-weight:bold;background-color:#FFFC9E">Bldg 500, Mokam Hall</span></td>
+    <td class="tg-dxi1"><span style="font-weight:bold;background-color:#FFFC9E">Bldg 500,</span><br><span style="font-weight:bold;background-color:#FFFC9E">Mokam Hall</span></td>
+    <td class="tg-dxi1"><span style="font-weight:bold;background-color:#FFFC9E">Bldg 500,</span><br><span style="font-weight:bold;background-color:#FFFC9E">Mokam Hall</span></td>
     <td class="tg-dxi1"><span style="font-weight:bold;background-color:#FFFC9E">TBA</span></td>
     <td class="tg-dxi1"><span style="font-weight:bold;background-color:#FFFC9E">TBA</span></td>
   </tr>
