@@ -42,7 +42,9 @@ title: Program
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;
-     width: 80%;}
+     width: 80%;
+    margin-left: auto;
+    margin-right: auto;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   overflow:hidden;padding:3px 2px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
