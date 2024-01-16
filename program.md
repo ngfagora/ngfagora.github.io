@@ -43,129 +43,125 @@ title: Program
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
+  overflow:hidden;padding:3px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-pb0m{border-color:inherit;text-align:center;vertical-align:bottom}
-.tg .tg-9wq8{border-color:inherit;text-align:center;vertical-align:middle}
-.tg .tg-baqh{text-align:center;vertical-align:top}
-.tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
-.tg .tg-2txf{background-color:#FFFC9E;border-color:inherit;font-weight:bold;text-align:center;vertical-align:middle}
-.tg .tg-d096{background-color:#C0C0C0;border-color:inherit;text-align:center;vertical-align:top}
-.tg .tg-5781{background-color:#CE6301;border-color:inherit;text-align:left;vertical-align:middle}
-.tg .tg-jqlo{background-color:#CE6301;border-color:inherit;color:#FFF;font-weight:bold;text-align:center;vertical-align:middle}
-.tg .tg-9u2q{background-color:#9b9b9b;border-color:inherit;text-align:center;vertical-align:top}
-.tg .tg-nrix{text-align:center;vertical-align:middle}
-.tg .tg-haji{background-color:#9b9b9b;border-color:inherit;text-align:center;vertical-align:middle}
+  font-weight:normal;overflow:hidden;padding:3px 5px;word-break:normal;}
+.tg .tg-d1ly{background-color:#C0C0C0;border-color:inherit;font-size:small;text-align:center;vertical-align:top}
+.tg .tg-dxi1{background-color:#FFFC9E;border-color:inherit;font-size:small;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-vn83{background-color:#CE6301;border-color:inherit;font-size:small;text-align:left;vertical-align:top}
+.tg .tg-alao{background-color:#CE6301;border-color:inherit;color:#FFF;font-size:small;font-weight:bold;text-align:center;
+  vertical-align:top}
+.tg .tg-3zjg{border-color:inherit;font-size:small;text-align:center;vertical-align:top}
+.tg .tg-9spy{background-color:#9b9b9b;border-color:inherit;font-size:small;text-align:center;vertical-align:top}
 </style>
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-5781"></th>
-    <th class="tg-jqlo"><span style="font-weight:bold;color:#FFF;background-color:#CE6301">May 6 (Mon.)</span></th>
-    <th class="tg-jqlo"><span style="font-weight:bold;color:#FFF;background-color:#CE6301">May 7 (Tue.)</span></th>
-    <th class="tg-jqlo"><span style="font-weight:bold;color:#FFF;background-color:#CE6301">May 8 (Wed.)</span></th>
-    <th class="tg-jqlo"><span style="font-weight:bold;color:#FFF;background-color:#CE6301">May 9 (Thu.)</span></th>
-    <th class="tg-jqlo"><span style="font-weight:bold;color:#FFF;background-color:#CE6301">May 10 (Fri.)</span></th>
+    <th class="tg-vn83"></th>
+    <th class="tg-alao"><span style="font-weight:bold;color:#FFF;background-color:#CE6301">May 6 (Mon.)</span></th>
+    <th class="tg-alao"><span style="font-weight:bold;color:#FFF;background-color:#CE6301">May 7 (Tue.)</span></th>
+    <th class="tg-alao"><span style="font-weight:bold;color:#FFF;background-color:#CE6301">May 8 (Wed.)</span></th>
+    <th class="tg-alao"><span style="font-weight:bold;color:#FFF;background-color:#CE6301">May 9 (Thu.)</span></th>
+    <th class="tg-alao"><span style="font-weight:bold;color:#FFF;background-color:#CE6301">May 10 (Fri.)</span></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-2txf"><span style="font-weight:bold;background-color:#FFFC9E">Location</span></td>
-    <td class="tg-2txf"><span style="font-weight:bold;background-color:#FFFC9E">TBA</span></td>
-    <td class="tg-2txf"><span style="font-weight:bold;background-color:#FFFC9E">Bldg 500, Mokam Hall</span></td>
-    <td class="tg-2txf"><span style="font-weight:bold;background-color:#FFFC9E">Bldg 500, Mokam Hall</span></td>
-    <td class="tg-2txf"><span style="font-weight:bold;background-color:#FFFC9E">TBA</span></td>
-    <td class="tg-2txf"><span style="font-weight:bold;background-color:#FFFC9E">TBA</span></td>
+    <td class="tg-dxi1"><span style="font-weight:bold;background-color:#FFFC9E">Location</span></td>
+    <td class="tg-dxi1"><span style="font-weight:bold;background-color:#FFFC9E">TBA</span></td>
+    <td class="tg-dxi1"><span style="font-weight:bold;background-color:#FFFC9E">Bldg 500, Mokam Hall</span></td>
+    <td class="tg-dxi1"><span style="font-weight:bold;background-color:#FFFC9E">Bldg 500, Mokam Hall</span></td>
+    <td class="tg-dxi1"><span style="font-weight:bold;background-color:#FFFC9E">TBA</span></td>
+    <td class="tg-dxi1"><span style="font-weight:bold;background-color:#FFFC9E">TBA</span></td>
   </tr>
   <tr>
-    <td class="tg-9wq8"><span style="font-weight:normal">9:30-10:00</span></td>
-    <td class="tg-9u2q" rowspan="13">-</td>
-    <td class="tg-9wq8">Session A-1</td>
-    <td class="tg-9wq8">Session C-1</td>
-    <td class="tg-c3ow" rowspan="5">AGORA</td>
-    <td class="tg-c3ow" rowspan="5">AGORA</td>
+    <td class="tg-3zjg"><span style="font-weight:normal">9:30-10:00</span></td>
+    <td class="tg-9spy" rowspan="13">-</td>
+    <td class="tg-3zjg">Session A-1</td>
+    <td class="tg-3zjg">Session C-1</td>
+    <td class="tg-3zjg" rowspan="5">AGORA</td>
+    <td class="tg-3zjg" rowspan="5">AGORA</td>
   </tr>
   <tr>
-    <td class="tg-9wq8"><span style="font-weight:normal">10:00-10:30</span></td>
-    <td class="tg-9wq8">Session A-2</td>
-    <td class="tg-9wq8">Session C-2</td>
+    <td class="tg-3zjg"><span style="font-weight:normal">10:00-10:30</span></td>
+    <td class="tg-3zjg">Session A-2</td>
+    <td class="tg-3zjg">Session C-2</td>
   </tr>
   <tr>
-    <td class="tg-9wq8">10:30-11:00</td>
-    <td class="tg-9wq8">Session A-3</td>
-    <td class="tg-9wq8">Session C-3</td>
+    <td class="tg-3zjg">10:30-11:00</td>
+    <td class="tg-3zjg">Session A-3</td>
+    <td class="tg-3zjg">Session C-3</td>
   </tr>
   <tr>
-    <td class="tg-pb0m">11:00-11:30</td>
-    <td class="tg-9wq8">Session A-4</td>
-    <td class="tg-9wq8">Session C-4</td>
+    <td class="tg-3zjg">11:00-11:30</td>
+    <td class="tg-3zjg">Session A-4</td>
+    <td class="tg-3zjg">Session C-4</td>
   </tr>
   <tr>
-    <td class="tg-9wq8">11:30-12:00</td>
-    <td class="tg-9wq8">Session A-5</td>
-    <td class="tg-9wq8">Session C-5</td>
+    <td class="tg-3zjg">11:30-12:00</td>
+    <td class="tg-3zjg">Session A-5</td>
+    <td class="tg-3zjg">Session C-5</td>
   </tr>
   <tr>
-    <td class="tg-9wq8">12:00-12:30</td>
-    <td class="tg-d096" rowspan="3">Lunch</td>
-    <td class="tg-d096" rowspan="3">Lunch</td>
-    <td class="tg-d096" rowspan="3">Lunch</td>
-    <td class="tg-d096" rowspan="3">Lunch</td>
+    <td class="tg-3zjg">12:00-12:30</td>
+    <td class="tg-d1ly" rowspan="3">Lunch</td>
+    <td class="tg-d1ly" rowspan="3">Lunch</td>
+    <td class="tg-d1ly" rowspan="3">Lunch</td>
+    <td class="tg-d1ly" rowspan="3">Lunch</td>
   </tr>
   <tr>
-    <td class="tg-9wq8">12:30-13:00</td>
+    <td class="tg-3zjg">12:30-13:00</td>
   </tr>
   <tr>
-    <td class="tg-9wq8">13:00-13:30</td>
+    <td class="tg-3zjg">13:00-13:30</td>
   </tr>
   <tr>
-    <td class="tg-9wq8">13:30-14:00</td>
-    <td class="tg-nrix">Session B-1</td>
-    <td class="tg-9wq8">Session D-1</td>
-    <td class="tg-c3ow" rowspan="3">AGORA</td>
-    <td class="tg-c3ow" rowspan="3">AGORA</td>
+    <td class="tg-3zjg">13:30-14:00</td>
+    <td class="tg-3zjg">Session B-1</td>
+    <td class="tg-3zjg">Session D-1</td>
+    <td class="tg-3zjg" rowspan="3">AGORA</td>
+    <td class="tg-3zjg" rowspan="3">AGORA</td>
   </tr>
   <tr>
-    <td class="tg-9wq8">14:00-14:30</td>
-    <td class="tg-nrix">Session B-2</td>
-    <td class="tg-9wq8">Session D-2</td>
+    <td class="tg-3zjg">14:00-14:30</td>
+    <td class="tg-3zjg">Session B-2</td>
+    <td class="tg-3zjg">Session D-2</td>
   </tr>
   <tr>
-    <td class="tg-9wq8">14:30-15:00</td>
-    <td class="tg-nrix">Session B-3</td>
-    <td class="tg-9wq8">Session D-3</td>
+    <td class="tg-3zjg">14:30-15:00</td>
+    <td class="tg-3zjg">Session B-3</td>
+    <td class="tg-3zjg">Session D-3</td>
   </tr>
   <tr>
-    <td class="tg-9wq8">15:00-15:30</td>
-    <td class="tg-nrix">Session B-4</td>
-    <td class="tg-c3ow" rowspan="7">Planetarium tour</td>
-    <td class="tg-c3ow" rowspan="6">AGORA w/ remote session</td>
-    <td class="tg-c3ow" rowspan="6">AGORA w/ remote session</td>
+    <td class="tg-3zjg">15:00-15:30</td>
+    <td class="tg-3zjg">Session B-4</td>
+    <td class="tg-3zjg" rowspan="7">Planetarium tour</td>
+    <td class="tg-3zjg" rowspan="6">AGORA w/<br>remote session</td>
+    <td class="tg-3zjg" rowspan="6">AGORA w/<br>remote session</td>
   </tr>
   <tr>
-    <td class="tg-9wq8">15:30-16:00</td>
-    <td class="tg-nrix">Session B-5</td>
+    <td class="tg-3zjg">15:30-16:00</td>
+    <td class="tg-3zjg">Session B-5</td>
   </tr>
   <tr>
-    <td class="tg-9wq8">16:00-16:30</td>
-    <td class="tg-c3ow" rowspan="5">Check-in</td>
-    <td class="tg-baqh" rowspan="4">CTP+SNUARC<br>colloquium</td>
+    <td class="tg-3zjg">16:00-16:30</td>
+    <td class="tg-3zjg" rowspan="5">Rregistration</td>
+    <td class="tg-3zjg" rowspan="4">CTP+SNUARC<br>colloquium</td>
   </tr>
   <tr>
-    <td class="tg-9wq8">16:30-17:00</td>
+    <td class="tg-3zjg">16:30-17:00</td>
   </tr>
   <tr>
-    <td class="tg-9wq8">17:00-17:30</td>
+    <td class="tg-3zjg">17:00-17:30</td>
   </tr>
   <tr>
-    <td class="tg-9wq8">17:30-18:00</td>
+    <td class="tg-3zjg">17:30-18:00</td>
   </tr>
   <tr>
-    <td class="tg-9wq8">18:00-</td>
-    <td class="tg-nrix">Banquet</td>
-    <td class="tg-9wq8">Smaller Banquet</td>
-    <td class="tg-haji">-</td>
+    <td class="tg-3zjg">18:00-</td>
+    <td class="tg-3zjg">Banquet</td>
+    <td class="tg-3zjg">Smaller Banquet</td>
+    <td class="tg-9spy">-</td>
   </tr>
 </tbody>
 </table>
