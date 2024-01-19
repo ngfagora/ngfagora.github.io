@@ -17,15 +17,15 @@ title: Program
             width: 100%;
         }
         .text {
-            width: 75%;
+            width: 80%;
             float: left;
         }
         .image {
-            width: 25%;
+            width: 20%;
             float: right;
         }
 	figcaption {
-	font-size: 80%;
+	font-size: 50%;
 	}
     </style>
 
@@ -182,6 +182,7 @@ title: Program
 		</figure>
 		<figure>
 			<img src="{{ '/assets/img/cosmoshall.jpeg' | relative_url }}" alt="Cosmos Hall" style="margin-left: 20px;">
+			<figcaption>Gwanheo Cosmos Hall</figcaption>
 		</figure>
         </div>
     </div>
@@ -200,7 +201,7 @@ title: Program
 		He is a fellow of the American Physical Society and the American Association for the Advancement of Science.
 	</p>
 	<h4>Planetarium Tour</h4>
-	<p>On May 8 (Wed) we will have a chance to visit the Gwanheo Cosmos Hall, a latest addition to SNUARC, 
+	<p>On May 8 (Wed) we will have a chance to visit Gwanheo Cosmos Hall, a latest addition to SNUARC, 
 		where the vast domed ceiling comes alive with the dazzling display of the night sky.  </p>	
 	<h4>Detailed Program / Talk Schedule</h4>
 	<p>To be fully finalized and announced in late-March, 2024. </p>		
