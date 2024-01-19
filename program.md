@@ -172,7 +172,7 @@ title: Program
 
 </div>
 
-
+/*
 <body>
     <div class="post">
         <div class="image">
@@ -187,9 +187,15 @@ title: Program
         </div>
     </div>
 </body>
+*/
 
 <div class="post">
 	<h4>Special CTP+SNUARC Colloquium</h4>
+	<div class="image">
+		<a href="{{ '/assets/img/Primack_and_Abrams.jpeg' | relative_url }}" target="_blank">
+		    <img src="{{ '/assets/img/Primack_and_Abrams.jpeg' | relative_url }}" alt="Primack and Abrams">
+		</a>
+        </div>
 	<p>On May 7 (Tue) Joel Primack and Nancy Abrams will give a Special CTP+SNUARC Colloquium.
 		Nancy E. Abrams is a philosopher of science, a lawyer, and a lecturer at the University of California, Santa Cruz. 
 		She is the author of "A God That Could be Real: Spirituality, Science, and the Future of Our Planet" (Beacon Press, 2015), 
@@ -200,7 +206,12 @@ title: Program
 		that makes up most of the matter in the universe. 
 		He is a fellow of the American Physical Society and the American Association for the Advancement of Science.
 	</p>
-	<h4>Planetarium Tour</h4>
+	<h4>Planetarium Tour</h4>	
+	<div class="image">
+		<a href="{{ '/assets/img/cosmoshall.jpeg' | relative_url }}" target="_blank">
+		    <img src="{{ '/assets/img/cosmoshall.jpeg' | relative_url }}" alt="Gwanheo Cosmos Hall">
+		</a>
+        </div>
 	<p>On May 8 (Wed) we will have a chance to visit Gwanheo Cosmos Hall, a latest addition to SNUARC, 
 		where the vast domed ceiling comes alive with the dazzling display of the night sky.  </p>	
 	<h4>Detailed Program / Talk Schedule</h4>
