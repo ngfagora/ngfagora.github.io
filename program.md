@@ -193,7 +193,7 @@ title: Program
 	<h4>Special CTP+SNUARC Colloquium</h4>
 	<div class="image">
 		<a href="{{ '/assets/img/Primack_and_Abrams.jpeg' | relative_url }}" target="_blank">
-		    <img src="{{ '/assets/img/Primack_and_Abrams.jpeg' | relative_url }}" alt="Primack and Abrams">
+		    <img src="{{ '/assets/img/Primack_and_Abrams.jpeg' | relative_url }}" alt="Primack and Abrams" style="margin-left: 20px;">
 		</a>
         </div>
 	<p>On May 7 (Tue) Joel Primack and Nancy Abrams will give a Special CTP+SNUARC Colloquium.
@@ -209,7 +209,7 @@ title: Program
 	<h4>Planetarium Tour</h4>	
 	<div class="image">
 		<a href="{{ '/assets/img/cosmoshall.jpeg' | relative_url }}" target="_blank">
-		    <img src="{{ '/assets/img/cosmoshall.jpeg' | relative_url }}" alt="Gwanheo Cosmos Hall">
+		    <img src="{{ '/assets/img/cosmoshall.jpeg' | relative_url }}" alt="Gwanheo Cosmos Hall" style="margin-left: 20px;">
 		</a>
         </div>
 	<p>On May 8 (Wed) we will have a chance to visit Gwanheo Cosmos Hall in Bldg 28, 
@@ -219,7 +219,7 @@ title: Program
 	<h4>Detailed Program / Talk Schedule</h4>
 	<p>To be fully finalized and announced in late-March, 2024. </p>		
 	<div>
-		<iframe width="900" height="1000" text-align="center" class="d-block mx-auto" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSArAHHSHryu1XLmkZnZKi-NegTOOGh-IZ7E5CUigOJwuztiWV3jllrB4DxCsYW8ogOUVqdHz4dy7-j/pubhtml?gid=1979706704&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+		<iframe width="900" height="1000" text-align="center" margin="0 auto" display="block" border-style="none" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSArAHHSHryu1XLmkZnZKi-NegTOOGh-IZ7E5CUigOJwuztiWV3jllrB4DxCsYW8ogOUVqdHz4dy7-j/pubhtml?gid=1979706704&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
 	</div>
 
 </div>
