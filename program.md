@@ -41,134 +41,15 @@ title: Program
 <div class="post">
 <h4>Program at a Glance</h4>
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;
-     width: 80%;
-    margin-left: auto;
-    margin-right: auto;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:3px 2px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:3px 2px;word-break:normal;}
-.tg .tg-d1ly{background-color:#C0C0C0;border-color:inherit;font-size:small;text-align:center;vertical-align:top}
-.tg .tg-dxi1{background-color:#FFFC9E;border-color:inherit;font-size:small;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-vn83{background-color:#CE6301;border-color:inherit;font-size:small;text-align:left;vertical-align:top}
-.tg .tg-alao{background-color:#CE6301;border-color:inherit;color:#FFF;font-size:small;font-weight:bold;text-align:center;
-  vertical-align:top}
-.tg .tg-3zjg{border-color:inherit;font-size:small;text-align:center;vertical-align:top}
-.tg .tg-9spy{background-color:#9b9b9b;border-color:inherit;font-size:small;text-align:center;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-vn83"></th>
-    <th class="tg-alao"><span style="font-weight:bold;color:#FFF;background-color:#CE6301">May 6 (Mon.)</span></th>
-    <th class="tg-alao"><span style="font-weight:bold;color:#FFF;background-color:#CE6301">May 7 (Tue.)</span></th>
-    <th class="tg-alao"><span style="font-weight:bold;color:#FFF;background-color:#CE6301">May 8 (Wed.)</span></th>
-    <th class="tg-alao"><span style="font-weight:bold;color:#FFF;background-color:#CE6301">May 9 (Thu.)</span></th>
-    <th class="tg-alao"><span style="font-weight:bold;color:#FFF;background-color:#CE6301">May 10 (Fri.)</span></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-dxi1"><span style="font-weight:bold;background-color:#FFFC9E">Location</span></td>
-    <td class="tg-dxi1"><span style="font-weight:bold;background-color:#FFFC9E">TBA</span></td>
-    <td class="tg-dxi1"><span style="font-weight:bold;background-color:#FFFC9E">Bldg 500,</span><br><span style="font-weight:bold;background-color:#FFFC9E">Mokam Hall</span></td>
-    <td class="tg-dxi1"><span style="font-weight:bold;background-color:#FFFC9E">Bldg 500,</span><br><span style="font-weight:bold;background-color:#FFFC9E">Mokam Hall</span></td>
-    <td class="tg-dxi1"><span style="font-weight:bold;background-color:#FFFC9E">TBA</span></td>
-    <td class="tg-dxi1"><span style="font-weight:bold;background-color:#FFFC9E">TBA</span></td>
-  </tr>
-  <tr>
-    <td class="tg-3zjg"><span style="font-weight:normal">9:30-10:00</span></td>
-    <td class="tg-9spy" rowspan="13">-</td>
-    <td class="tg-3zjg">Session A-1</td>
-    <td class="tg-3zjg">Session C-1</td>
-    <td class="tg-3zjg" rowspan="5">AGORA</td>
-    <td class="tg-3zjg" rowspan="5">AGORA</td>
-  </tr>
-  <tr>
-    <td class="tg-3zjg"><span style="font-weight:normal">10:00-10:30</span></td>
-    <td class="tg-3zjg">Session A-2</td>
-    <td class="tg-3zjg">Session C-2</td>
-  </tr>
-  <tr>
-    <td class="tg-3zjg">10:30-11:00</td>
-    <td class="tg-3zjg">Session A-3</td>
-    <td class="tg-3zjg">Session C-3</td>
-  </tr>
-  <tr>
-    <td class="tg-3zjg">11:00-11:30</td>
-    <td class="tg-3zjg">Session A-4</td>
-    <td class="tg-3zjg">Session C-4</td>
-  </tr>
-  <tr>
-    <td class="tg-3zjg">11:30-12:00</td>
-    <td class="tg-3zjg">Session A-5</td>
-    <td class="tg-3zjg">Session C-5</td>
-  </tr>
-  <tr>
-    <td class="tg-3zjg">12:00-12:30</td>
-    <td class="tg-d1ly" rowspan="3">Lunch</td>
-    <td class="tg-d1ly" rowspan="3">Lunch</td>
-    <td class="tg-d1ly" rowspan="3">Lunch</td>
-    <td class="tg-d1ly" rowspan="3">Lunch</td>
-  </tr>
-  <tr>
-    <td class="tg-3zjg">12:30-13:00</td>
-  </tr>
-  <tr>
-    <td class="tg-3zjg">13:00-13:30</td>
-  </tr>
-  <tr>
-    <td class="tg-3zjg">13:30-14:00</td>
-    <td class="tg-3zjg">Session B-1</td>
-    <td class="tg-3zjg">Session D-1</td>
-    <td class="tg-3zjg" rowspan="3">AGORA</td>
-    <td class="tg-3zjg" rowspan="3">AGORA</td>
-  </tr>
-  <tr>
-    <td class="tg-3zjg">14:00-14:30</td>
-    <td class="tg-3zjg">Session B-2</td>
-    <td class="tg-3zjg">Session D-2</td>
-  </tr>
-  <tr>
-    <td class="tg-3zjg">14:30-15:00</td>
-    <td class="tg-3zjg">Session B-3</td>
-    <td class="tg-3zjg">Session D-3</td>
-  </tr>
-  <tr>
-    <td class="tg-3zjg">15:00-15:30</td>
-    <td class="tg-3zjg">Session B-4</td>
-    <td class="tg-3zjg" rowspan="7">Planetarium tour</td>
-    <td class="tg-3zjg" rowspan="6">AGORA w/<br>remote session</td>
-    <td class="tg-3zjg" rowspan="6">AGORA w/<br>remote session</td>
-  </tr>
-  <tr>
-    <td class="tg-3zjg">15:30-16:00</td>
-    <td class="tg-3zjg">Session B-5</td>
-  </tr>
-  <tr>
-    <td class="tg-3zjg">16:00-16:30</td>
-    <td class="tg-3zjg" rowspan="5">Registration</td>
-    <td class="tg-3zjg" rowspan="4">CTP+SNUARC<br>colloquium</td>
-  </tr>
-  <tr>
-    <td class="tg-3zjg">16:30-17:00</td>
-  </tr>
-  <tr>
-    <td class="tg-3zjg">17:00-17:30</td>
-  </tr>
-  <tr>
-    <td class="tg-3zjg">17:30-18:00</td>
-  </tr>
-  <tr>
-    <td class="tg-3zjg">18:00-</td>
-    <td class="tg-3zjg">Banquet</td>
-    <td class="tg-3zjg">Smaller Banquet</td>
-    <td class="tg-9spy">-</td>
-  </tr>
-</tbody>
-</table>
+<div>
+		<iframe width="660" height="510" text-align="center" display="block" border-style="none" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSArAHHSHryu1XLmkZnZKi-NegTOOGh-IZ7E5CUigOJwuztiWV3jllrB4DxCsYW8ogOUVqdHz4dy7-j/pubhtml?gid=707736727&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+		<br>
+		<iframe width="900" height="1000" text-align="center" display="block" border-style="none" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSArAHHSHryu1XLmkZnZKi-NegTOOGh-IZ7E5CUigOJwuztiWV3jllrB4DxCsYW8ogOUVqdHz4dy7-j/pubhtml?gid=1979706704&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+	</div>
+
+<div style="display: flex; justify-content: center; align-items: center; height: 100%;">
+    <iframe width="660" height="510" style="border-style: none;" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSArAHHSHryu1XLmkZnZKi-NegTOOGh-IZ7E5CUigOJwuztiWV3jllrB4DxCsYW8ogOUVqdHz4dy7-j/pubhtml?gid=707736727&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+</div>
 
 </div>
 
@@ -219,15 +100,7 @@ title: Program
 		More information about this visit will be avaialble during the workshop.</p>	
 	<h4>Detailed Program / Talk Schedule</h4>
 	<p>To be fully finalized and announced in late March, 2024. </p>		
-	<div>
-		<iframe width="660" height="510" text-align="center" display="block" border-style="none" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSArAHHSHryu1XLmkZnZKi-NegTOOGh-IZ7E5CUigOJwuztiWV3jllrB4DxCsYW8ogOUVqdHz4dy7-j/pubhtml?gid=707736727&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
-		<br>
-		<iframe width="900" height="1000" text-align="center" display="block" border-style="none" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSArAHHSHryu1XLmkZnZKi-NegTOOGh-IZ7E5CUigOJwuztiWV3jllrB4DxCsYW8ogOUVqdHz4dy7-j/pubhtml?gid=1979706704&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
-	</div>
-
-<div style="display: flex; justify-content: center; align-items: center; height: 100%;">
-    <iframe width="660" height="510" style="border-style: none;" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSArAHHSHryu1XLmkZnZKi-NegTOOGh-IZ7E5CUigOJwuztiWV3jllrB4DxCsYW8ogOUVqdHz4dy7-j/pubhtml?gid=707736727&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
-</div>
+	
 
 </div>
 
