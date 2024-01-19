@@ -204,7 +204,7 @@ title: Program
 		where the vast domed ceiling comes alive with the dazzling display of the night sky.  </p>	
 	<h4>Detailed Program / Talk Schedule</h4>
 	<p>To be fully finalized and announced in late-March, 2024. </p>		
-	<iframe width="900" height="1000" align="middle" class="d-block mx-auto" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSArAHHSHryu1XLmkZnZKi-NegTOOGh-IZ7E5CUigOJwuztiWV3jllrB4DxCsYW8ogOUVqdHz4dy7-j/pubhtml?gid=1979706704&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+	<iframe width="900" height="1000" text-align="center" class="d-block mx-auto" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSArAHHSHryu1XLmkZnZKi-NegTOOGh-IZ7E5CUigOJwuztiWV3jllrB4DxCsYW8ogOUVqdHz4dy7-j/pubhtml?gid=1979706704&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
 
 </div>
 
