@@ -32,6 +32,7 @@ title: Program
   
 </head>
 
+
  
 <div class="post">
 	<h1 class="pageTitle">Program</h1>
@@ -199,7 +200,7 @@ title: Program
 	<p>We will visit the cosmos hall, where the vast domed ceiling comes alive with the dazzling display of the night sky.  </p>	
 	<h4>Detailed Workshop Program / Talk Schedule</h4>
 	<p>To be announced in late-March, 2024. </p>		
-	<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSArAHHSHryu1XLmkZnZKi-NegTOOGh-IZ7E5CUigOJwuztiWV3jllrB4DxCsYW8ogOUVqdHz4dy7-j/pubhtml?gid=1979706704&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+	<iframe width="600" height="800" class="d-block mx-auto" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSArAHHSHryu1XLmkZnZKi-NegTOOGh-IZ7E5CUigOJwuztiWV3jllrB4DxCsYW8ogOUVqdHz4dy7-j/pubhtml?gid=1979706704&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
 
 </div>
 
