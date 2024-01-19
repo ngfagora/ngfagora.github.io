@@ -196,8 +196,11 @@ title: Program
 		</li>
 	</ul>
 	<h4>Planetarium tour</h4>
-	<p>We will visit the cosmos hall, where the vast domed ceiling comes alive with the dazzling display of the night sky.  </p>
+	<p>We will visit the cosmos hall, where the vast domed ceiling comes alive with the dazzling display of the night sky.  </p>	
+	<h4>Detailed Workshop Program / Talk Schedule</h4>
+	<p>To be announced in late-March, 2024. </p>		
+	<iframe width="800" height="400" src=https://docs.google.com/spreadsheets/d/e/2PACX-1vSArAHHSHryu1XLmkZnZKi-NegTOOGh-IZ7E5CUigOJwuztiWV3jllrB4DxCsYW8ogOUVqdHz4dy7-j/pubhtml?gid=1979706704&single=true></iframe>
+
 </div>
 
-<iframe width="800" height="400" src=https://docs.google.com/spreadsheets/d/e/2PACX-1vSArAHHSHryu1XLmkZnZKi-NegTOOGh-IZ7E5CUigOJwuztiWV3jllrB4DxCsYW8ogOUVqdHz4dy7-j/pubhtml?gid=1979706704&single=true></iframe>
 
