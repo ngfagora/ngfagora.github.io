@@ -189,21 +189,22 @@ title: Program
 
 <div class="post">
 	<h4>Special CTP+SNUARC Colloquium</h4>
-	<p>Joel Primack and Nancy Abrams will give a Special CTP+SNUARC Colloquium on May 7 (Tue).
+	<p>On May 7 (Tue) Joel Primack and Nancy Abrams will give a Special CTP+SNUARC Colloquium.
 		Nancy E. Abrams is a philosopher of science, a lawyer, and a lecturer at the University of California, Santa Cruz. 
-		She is the author of A GOD THAT COULD BE REAL: SPIRITUALITY, SCIENCE, AND THE FUTURE OF OUR PLANET (Beacon Press, 2015), 
+		She is the author of "A God That Could be Real: Spirituality, Science, and the Future of Our Planet" (Beacon Press, 2015), 
 		which won the 2015 USA Best Book award in philosophy.
 		Joel R. Primack is a professor of physics and astrophysics at the University of California, Santa Cruz 
 		and is a member of the Santa Cruz Institute for Particle Physics. 
 		He specializes in the formation and evolution of galaxies and the nature of the dark matter 
 		that makes up most of the matter in the universe. 
+		He is a fellow of the American Physical Society and the American Association for the Advancement of Science.
 	</p>
-	<h4>Planetarium tour</h4>
+	<h4>Planetarium Tour</h4>
 	<p>On May 8 (Wed) we will have a chance to visit the Gwanheo Cosmos Hall, a latest addition to SNUARC, 
 		where the vast domed ceiling comes alive with the dazzling display of the night sky.  </p>	
 	<h4>Detailed Program / Talk Schedule</h4>
 	<p>To be fully finalized and announced in late-March, 2024. </p>		
-	<iframe width="600" height="800" align="middle" class="d-block mx-auto" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSArAHHSHryu1XLmkZnZKi-NegTOOGh-IZ7E5CUigOJwuztiWV3jllrB4DxCsYW8ogOUVqdHz4dy7-j/pubhtml?gid=1979706704&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+	<iframe width="900" height="1000" align="middle" class="d-block mx-auto" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSArAHHSHryu1XLmkZnZKi-NegTOOGh-IZ7E5CUigOJwuztiWV3jllrB4DxCsYW8ogOUVqdHz4dy7-j/pubhtml?gid=1979706704&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
 
 </div>
 
