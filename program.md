@@ -218,7 +218,7 @@ title: Program
 		The tour will also feature a short film about the efforts to learn about our universe, maded for the dome projection. 
 		More information about this visit will be avaialble during the workshop.</p>	
 	<h4>Detailed Program / Talk Schedule</h4>
-	<p>To be fully finalized and announced in late-March, 2024. </p>		
+	<p>To be fully finalized and announced in late March, 2024. </p>		
 	<div>
 		<iframe width="660" height="510" text-align="center" display="block" border-style="none" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSArAHHSHryu1XLmkZnZKi-NegTOOGh-IZ7E5CUigOJwuztiWV3jllrB4DxCsYW8ogOUVqdHz4dy7-j/pubhtml?gid=707736727&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
 		<br>
