@@ -212,11 +212,15 @@ title: Program
 		    <img src="{{ '/assets/img/cosmoshall.jpeg' | relative_url }}" alt="Gwanheo Cosmos Hall">
 		</a>
         </div>
-	<p>On May 8 (Wed) we will have a chance to visit Gwanheo Cosmos Hall, a latest addition to SNUARC, 
-		where the vast domed ceiling comes alive with the dazzling display of the night sky.  </p>	
+	<p>On May 8 (Wed) we will have a chance to visit Gwanheo Cosmos Hall in Bldg 28, 
+		a latest addition to SNUARC and the College of Natural Sciences at SNU, 
+		where the vast domed ceiling comes alive with the dazzling display of the night sky.  
+		More information about this visit will be avaialble during the workshop.</p>	
 	<h4>Detailed Program / Talk Schedule</h4>
 	<p>To be fully finalized and announced in late-March, 2024. </p>		
-	<iframe width="900" height="1000" text-align="center" class="d-block mx-auto" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSArAHHSHryu1XLmkZnZKi-NegTOOGh-IZ7E5CUigOJwuztiWV3jllrB4DxCsYW8ogOUVqdHz4dy7-j/pubhtml?gid=1979706704&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+	<div>
+		<iframe width="900" height="1000" text-align="center" class="d-block mx-auto" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSArAHHSHryu1XLmkZnZKi-NegTOOGh-IZ7E5CUigOJwuztiWV3jllrB4DxCsYW8ogOUVqdHz4dy7-j/pubhtml?gid=1979706704&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+	</div>
 
 </div>
 
