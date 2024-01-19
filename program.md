@@ -172,7 +172,7 @@ title: Program
 
 </div>
 
-/*
+<!--
 <body>
     <div class="post">
         <div class="image">
@@ -187,7 +187,7 @@ title: Program
         </div>
     </div>
 </body>
-*/
+-->
 
 <div class="post">
 	<h4>Special CTP+SNUARC Colloquium</h4>
