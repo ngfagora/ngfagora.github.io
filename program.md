@@ -220,7 +220,7 @@ title: Program
 	<h4>Detailed Program / Talk Schedule</h4>
 	<p>To be fully finalized and announced in late-March, 2024. </p>		
 	<div>
-		<iframe width="670" height="530" text-align="center" display="block" border-style="none" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSArAHHSHryu1XLmkZnZKi-NegTOOGh-IZ7E5CUigOJwuztiWV3jllrB4DxCsYW8ogOUVqdHz4dy7-j/pubhtml?gid=707736727&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+		<iframe width="660" height="520" text-align="center" display="block" border-style="none" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSArAHHSHryu1XLmkZnZKi-NegTOOGh-IZ7E5CUigOJwuztiWV3jllrB4DxCsYW8ogOUVqdHz4dy7-j/pubhtml?gid=707736727&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
 		<iframe width="900" height="1000" text-align="center" display="block" border-style="none" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSArAHHSHryu1XLmkZnZKi-NegTOOGh-IZ7E5CUigOJwuztiWV3jllrB4DxCsYW8ogOUVqdHz4dy7-j/pubhtml?gid=1979706704&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
 
 	</div>
