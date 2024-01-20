@@ -41,14 +41,6 @@ title: Program
 <div class="post">
 <h4>Program at a Glance</h4>
 
-<!--
-<div>
-		<iframe width="660" height="510" text-align="center" display="block" border-style="none" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSArAHHSHryu1XLmkZnZKi-NegTOOGh-IZ7E5CUigOJwuztiWV3jllrB4DxCsYW8ogOUVqdHz4dy7-j/pubhtml?gid=707736727&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
-		<br>
-		<iframe width="900" height="1000" text-align="center" display="block" border-style="none" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSArAHHSHryu1XLmkZnZKi-NegTOOGh-IZ7E5CUigOJwuztiWV3jllrB4DxCsYW8ogOUVqdHz4dy7-j/pubhtml?gid=1979706704&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
-	</div>
- </div>
--->
 
 <div style="display: flex; justify-content: center; align-items: center; height: 100%;">
     <iframe width="660" height="550" frameborder="0" scrolling="no" src="https://onedrive.live.com/embed?resid=566141491218E6C9%211836&authkey=%21AN_z1_bMQcOO5D4&em=2&wdAllowInteractivity=False&Item='Program%20at%20a%20glance'!A1%3AF18&wdHideGridlines=True&wdDownloadButton=True&wdInConfigurator=True&wdInConfigurator=True"></iframe>
