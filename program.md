@@ -79,7 +79,8 @@ title: Program
 		    <img src="{{ '/assets/img/Primack_and_Abrams.jpeg' | relative_url }}" alt="Primack and Abrams" style="margin-left: 20px;">
 		</a>
         </div>
-	<p>On May 7 (Tue) Joel Primack and Nancy Abrams will give a Special CTP+SNUARC Colloquium.
+	<p>On May 7 (Tue) Joel Primack and Nancy Abrams will give a Special CTP+SNUARC Colloquium, jointly organized by the 
+		<a href="https://ctp.snu.ac.kr/" target="_blank">Center for Theoretical Physics</a> at <a href="https://en.snu.ac.kr/index.html" target="_blank">Seoul National University</a> (SNU), and the <a href="https://astron.snu.ac.kr/en/천문우주센터/" target="_blank">SNU Astronomy Research Center</a>. 
 		Nancy E. Abrams is a philosopher of science, a lawyer, and a lecturer at the University of California, Santa Cruz. 
 		She is the author of "A God That Could be Real: Spirituality, Science, and the Future of Our Planet" (Beacon Press, 2015), 
 		which won the 2015 USA Best Book award in philosophy.
