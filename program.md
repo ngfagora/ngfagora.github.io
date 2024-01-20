@@ -78,10 +78,9 @@ title: Program
 		Could be Real: Spirituality, Science, and the Future of Our Planet"</a> (Beacon Press, 2015), 
 		which won the 2015 USA Best Book award in philosophy.
 		Joel R. Primack is a Distinguished Professor of Physics Emeritus at the University of California, Santa Cruz 
-		and is a member of the Santa Cruz Institute for Particle Physics. 
+		and a fellow of the American Physical Society (APS) and the American Association for the Advancement of Science (AAAS). 
 		He specializes in the formation and evolution of galaxies and the nature of the dark matter 
 		that makes up most of the matter in the universe. 
-		He is also a fellow of the American Physical Society (APS) and the American Association for the Advancement of Science (AAAS).
 		With Nancy Abrams, he is the co-author of 
 		<a href="https://www.amazon.com/View-Center-Universe-Discovering-Extraordinary/dp/1594482551" target="_blank">"The View from the Center 
 		of the Universe: Discovering Our Extraordinary Place in the Cosmos"</a> (Riverhead/Penguin, 2006) and 
