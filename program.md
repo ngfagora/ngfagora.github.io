@@ -102,7 +102,8 @@ title: Program
 		    <img src="{{ '/assets/img/cosmoshall.jpeg' | relative_url }}" alt="Gwanheo Cosmos Hall" style="margin-left: 20px;">
 		</a>
         </div>
-	<p>On May 8 (Wed) we will have a chance to visit Gwanheo Cosmos Hall in Bldg 28, 
+	<p>On May 8 (Wed) we will have a chance to visit 
+		<a href="https://science.snu.ac.kr/share/cosmos-hall" target="_blank">Gwanheo Cosmos Hall</a> in Bldg 28, 
 		a latest addition to SNUARC and the College of Natural Sciences at SNU, 
 		where the vast domed ceiling comes alive with the dazzling display of the night sky.  
 		The tour will also feature a short film about the efforts to learn about our universe, made for the dome projection. 
