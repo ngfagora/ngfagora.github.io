@@ -74,7 +74,7 @@ title: Program
 	<p>On May 7 (Tue) Joel Primack and Nancy Abrams will give a Special CTP+SNUARC Colloquium aimed at both scientists and 
 		the science-interested public, 
 		jointly organized by the <a href="https://ctp.snu.ac.kr/" target="_blank">Center for Theoretical Physics</a> (CTP) 
-		at <a href="https://en.snu.ac.kr/index.html" target="_blank">Seoul National University</a> (SNU), and the 
+		at <a href="https://en.snu.ac.kr/" target="_blank">Seoul National University</a> (SNU), and the 
 		<a href="https://astron.snu.ac.kr/en/천문우주센터/" target="_blank">SNU Astronomy Research Center</a> (SNUARC). 
 		Nancy E. Abrams is a philosopher of science, a lawyer, and a lecturer at the University of California, Santa Cruz. 
 		She is the author of <a href="https://www.amazon.com/God-That-Could-Real-Spirituality/dp/0807075957" target="_blank">"A God That 
