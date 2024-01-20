@@ -105,8 +105,8 @@ title: Program
 	<p>On May 8 (Wed) we will have a chance to visit Gwanheo Cosmos Hall in Bldg 28, 
 		a latest addition to SNUARC and the College of Natural Sciences at SNU, 
 		where the vast domed ceiling comes alive with the dazzling display of the night sky.  
-		The tour will also feature a short film about the efforts to learn about our universe, maded for the dome projection. 
-		More information about this visit will be avaialble during the workshop.</p>	
+		The tour will also feature a short film about the efforts to learn about our universe, made for the dome projection. 
+		More information about this visit at the end of the NGF portion of the workshop will be avaialble during the workshop.</p>	
 	<h4>Detailed Program / Talk Schedule</h4>
 	<p>To be fully finalized and announced in late March, 2024. </p>		
 	
