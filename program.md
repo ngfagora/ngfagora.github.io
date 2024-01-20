@@ -82,13 +82,19 @@ title: Program
 	<p>On May 7 (Tue) Joel Primack and Nancy Abrams will give a Special CTP+SNUARC Colloquium, jointly organized by the 
 		<a href="https://ctp.snu.ac.kr/" target="_blank">Center for Theoretical Physics</a> at <a href="https://en.snu.ac.kr/index.html" target="_blank">Seoul National University</a> (SNU), and the <a href="https://astron.snu.ac.kr/en/천문우주센터/" target="_blank">SNU Astronomy Research Center</a>. 
 		Nancy E. Abrams is a philosopher of science, a lawyer, and a lecturer at the University of California, Santa Cruz. 
-		She is the author of "A God That Could be Real: Spirituality, Science, and the Future of Our Planet" (Beacon Press, 2015), 
+		She is the author of <a href="https://www.amazon.com/God-That-Could-Real-Spirituality/dp/0807075957" target="_blank">"A God That 
+		Could be Real: Spirituality, Science, and the Future of Our Planet"</a> (Beacon Press, 2015), 
 		which won the 2015 USA Best Book award in philosophy.
 		Joel R. Primack is a Distinguished Professor of Physics Emeritus at the University of California, Santa Cruz 
 		and is a member of the Santa Cruz Institute for Particle Physics. 
 		He specializes in the formation and evolution of galaxies and the nature of the dark matter 
 		that makes up most of the matter in the universe. 
-		He is also a fellow of the American Physical Society and the American Association for the Advancement of Science.
+		He is also a fellow of the American Physical Society (APS) and the American Association for the Advancement of Science (AAAS).
+		With Nancy Abrams, he is the co-author of 
+		<a href="https://www.amazon.com/View-Center-Universe-Discovering-Extraordinary/dp/1594482551" target="_blank">"The View from the Center 
+		of the Universe: Discovering Our Extraordinary Place in the Cosmos"</a> (Riverhead/Penguin, 2006) and 
+		<a href="https://www.amazon.com/New-Universe-Human-Future-Cosmology/dp/0300181248" target="_blank">"The New Universe and the Human Future:
+		How a Shared Cosmology Could Transform the World"</a> (Yale University Press, 2011).
 	</p>
 	<h4>Planetarium Tour</h4>	
 	<div class="image">
