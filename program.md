@@ -88,7 +88,7 @@ title: Program
 		and is a member of the Santa Cruz Institute for Particle Physics. 
 		He specializes in the formation and evolution of galaxies and the nature of the dark matter 
 		that makes up most of the matter in the universe. 
-		He is a fellow of the American Physical Society and the American Association for the Advancement of Science.
+		He is also a fellow of the American Physical Society and the American Association for the Advancement of Science.
 	</p>
 	<h4>Planetarium Tour</h4>	
 	<div class="image">
