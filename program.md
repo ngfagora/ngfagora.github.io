@@ -39,8 +39,8 @@ title: Program
 </div>
 
 <div class="post">
-<h4>Program at a Glance</h4>
-
+<h4>Program at a Glance (Tentative)</h4>
+	<p>To be fully finalized and announced in late March, 2024. </p>
 
 <div style="display: flex; justify-content: center; align-items: center; height: 100%;">
     <iframe width="660" height="550" frameborder="0" scrolling="no" src="https://onedrive.live.com/embed?resid=566141491218E6C9%211836&authkey=%21AN_z1_bMQcOO5D4&em=2&wdAllowInteractivity=False&Item='Program%20at%20a%20glance'!A1%3AF18&wdHideGridlines=True&wdDownloadButton=True&wdInConfigurator=True&wdInConfigurator=True"></iframe>
@@ -101,7 +101,7 @@ title: Program
 		where the vast domed ceiling comes alive with the dazzling display of the night sky.  
 		The tour will also feature a short film about the efforts to learn about our universe, made for the dome projection. 
 		More information about this visit at the end of the NGF portion of the week will be avaialble during the workshop.</p>	
-	<h4>Detailed Program / Talk Schedule</h4>
+	<h4>Detailed Program / Talk Schedule (Tentative)</h4>
 	<p>To be fully finalized and announced in late March, 2024. </p>		
 	
 </div>
