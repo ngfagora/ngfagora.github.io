@@ -502,12 +502,12 @@ DARK THEME STYLING
 
 @media (prefers-color-scheme: dark) {
 	body {
-		background-color: $black;
-		color: white;
+		background-color: white;
+		color: $black;
 	}
 
 	.posts article .date {
-		color: white;
+		color: $black;
 	}
 
 	.postNav {
