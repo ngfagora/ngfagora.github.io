@@ -176,7 +176,7 @@ PAGE STYLES (2rem), padding-top: 1em;
 }
 
 /***************
-HEADER STYLING
+HEADER STYLING (height: 3em in default)
 ***************/
 
 .header {
@@ -186,7 +186,7 @@ HEADER STYLING
 	background-position: center center;
 	color: white;
 	padding: 0;
-	height: 3em;
+	height: 10em;
 
 	.container {
 		padding: 0;
