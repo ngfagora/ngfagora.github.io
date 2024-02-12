@@ -82,7 +82,8 @@ title: Program
 		which won the 2015 USA Best Book award in philosophy.
 		Joel R. Primack is a Distinguished Professor of Physics Emeritus at the University of California, Santa Cruz 
 		and a fellow of the American Physical Society (APS) and the American Association for the Advancement of Science (AAAS). 
-		He is a recipient of American Physical Society Lilienfeld Prize in 2020. 
+		He is a recipient of APS <a href="https://www.aps.org/programs/honors/prizes/lilienfeld.cfm">Lilienfeld Prize</a> in 2020. 
+		<!-- and AAAS <a href="https://www.aaas.org/awards/philip-hauge-abelson/about">Abelson Prize</a> in 2024. -->
 		With Nancy Abrams, he is also the co-author of 
 		<a href="https://www.amazon.com/View-Center-Universe-Discovering-Extraordinary/dp/1594482551" target="_blank">"The View from the Center 
 		of the Universe: Discovering Our Extraordinary Place in the Cosmos"</a> (Riverhead/Penguin) and 
