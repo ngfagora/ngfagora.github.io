@@ -71,7 +71,7 @@ title: Program
 		    <img src="{{ '/assets/img/Primack.jpg' | relative_url }}" alt="Primack and Abrams" style="margin-left: 20px;">
 		</a>
         </div>
-	<p>On May 7 (Tue) Prof. Joel R. Primack (UCSC) will give a Special CTP+SNUARC Colloquium aimed at both scientists and 
+	<p>On May 7 (Tue) Prof. Joel R. Primack will give a Special CTP+SNUARC Colloquium aimed at both scientists and 
 		the science-interested public, 
 		jointly organized by the <a href="https://ctp.snu.ac.kr/" target="_blank">Center for Theoretical Physics</a> (CTP) 
 		at <a href="https://en.snu.ac.kr/" target="_blank">Seoul National University</a> (SNU), and the 
