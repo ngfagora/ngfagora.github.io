@@ -67,24 +67,28 @@ title: Program
 <div class="post">
 	<h4>Special CTP+SNUARC Colloquium</h4>
 	<div class="image">
-		<a href="{{ '/assets/img/Primack_and_Abrams.jpeg' | relative_url }}" target="_blank">
-		    <img src="{{ '/assets/img/Primack_and_Abrams.jpeg' | relative_url }}" alt="Primack and Abrams" style="margin-left: 20px;">
+		<a href="{{ '/assets/img/Primack.jpg' | relative_url }}" target="_blank">
+		    <img src="{{ '/assets/img/Primack.jpg' | relative_url }}" alt="Primack and Abrams" style="margin-left: 20px;">
 		</a>
         </div>
-	<p>On May 7 (Tue) Joel Primack and Nancy Abrams will give a Special CTP+SNUARC Colloquium aimed at both scientists and 
+	<p>On May 7 (Tue) Prof. Joel R. Primack (UCSC) will give a Special CTP+SNUARC Colloquium aimed at both scientists and 
 		the science-interested public, 
 		jointly organized by the <a href="https://ctp.snu.ac.kr/" target="_blank">Center for Theoretical Physics</a> (CTP) 
 		at <a href="https://en.snu.ac.kr/" target="_blank">Seoul National University</a> (SNU), and the 
 		<a href="https://astron.snu.ac.kr/en/천문우주센터/" target="_blank">SNU Astronomy Research Center</a> (SNUARC). 
-		Nancy E. Abrams is a philosopher of science, a lawyer, and a lecturer at the University of California, Santa Cruz. 
+		<!-- Nancy E. Abrams is a philosopher of science, a lawyer, and a lecturer at the University of California, Santa Cruz. 
 		She is the author of <a href="https://www.amazon.com/God-That-Could-Real-Spirituality/dp/0807075957" target="_blank">"A God That 
 		Could be Real: Spirituality, Science, and the Future of Our Planet"</a> (Beacon Press), 
-		which won the 2015 USA Best Book award in philosophy.
-		Joel R. Primack is a Distinguished Professor of Physics Emeritus at the University of California, Santa Cruz 
+		which won the 2015 USA Best Book award in philosophy. --> 
+		Prof. Primack is a Distinguished Professor of Physics Emeritus at the University of California, Santa Cruz 
 		and a fellow of the American Physical Society (APS) and the American Association for the Advancement of Science (AAAS). 
-		He is also the recipient of <a href="https://www.aps.org/programs/honors/prizes/lilienfeld.cfm">APS Lilienfeld Prize</a> in 2020,
-		and <a href="https://www.aaas.org/awards/philip-hauge-abelson/about">AAAS Abelson Prize</a> in 2024.
-		Primack and Abrams co-authored two books,  
+		He is one of the key contributors to our current understanding of the makeup of the universe and has helped to establish the paradigm of 
+		cold dark matter (CDM) cosmology. 
+		He is the recipient of <a href="https://www.aps.org/programs/honors/prizes/lilienfeld.cfm">APS Lilienfeld Prize</a> in 2020
+		for his "seminal contributions to our understanding of the formation of structure in the universe,"
+		and <a href="https://www.aaas.org/awards/philip-hauge-abelson/about">AAAS Abelson Prize</a> in 2024 
+		for his "many contributions to the scientific community, the science policy world and society writ large."
+		Prof. Primack and his wife Nancy E. Abrams co-authored two popular books,  
 		<a href="https://www.amazon.com/View-Center-Universe-Discovering-Extraordinary/dp/1594482551" target="_blank">"The View from the Center 
 		of the Universe: Discovering Our Extraordinary Place in the Cosmos"</a> (Riverhead/Penguin) and 
 		<a href="https://www.amazon.com/New-Universe-Human-Future-Cosmology/dp/0300181248" target="_blank">"The New Universe and the Human Future:
