@@ -20,9 +20,31 @@ title: Venue & Travel
             float: left;
         }
         .image {
+	    max-width: 100%;
             width: 40%;
             float: right;
         }
+
+	/* Medium devices (tablets, 768px and up) */
+	@media (min-width: 768px) {
+	  .image {
+	    max-width: 75%; /* Adjust as needed */
+	  }
+	}
+	
+	/* Large devices (desktops, 992px and up) */
+	@media (min-width: 992px) {
+	  .image {
+	    max-width: 50%; /* Adjust as needed */
+	  }
+	}
+	
+	/* Extra large devices (large desktops, 1200px and up) */
+	@media (min-width: 1200px) {
+	  .image {
+	    max-width: 33%; /* Adjust as needed */
+	  }
+	} 
     </style>
 </head>
 	
