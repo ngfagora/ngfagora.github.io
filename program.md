@@ -39,8 +39,8 @@ title: Program
 </div>
 
 <div class="post">
-<h4>Program at a Glance (Tentative)</h4>
-	<p>To be fully finalized and announced in late March, 2024.  While non-AGORA members are welcome to join the <a href="http://www.agorasimulations.org/" target="_blank">AGORA</a> portion of the week (May 9-10), we encourage them to first <a href="https://sites.google.com/site/santacruzcomparisonproject/about#h.aisumosqg4mr" target="_blank">sign up</a>  for the Collaboration (without any obligation).  We will arrange an online AGORA session in the Thursday afternoon, May 9 to share our progress with the registered remote participants in the US and European time zones. </p>
+<h4>Program at a Glance</h4>
+	<p>The first part of the meeting (May 7-8) will be the 5th Numerical Galaxy Formation (NGF) Meeting in Korea, and the the second part of the meeting (May 9-10) will be the AGORA mini-workshop, taking place between the annual workshops in August.  While non-AGORA members are welcome to join the <a href="http://www.agorasimulations.org/" target="_blank">AGORA</a> portion of the week, we encourage them to kindly <a href="https://sites.google.com/site/santacruzcomparisonproject/about#h.aisumosqg4mr" target="_blank">sign up</a>  for the Collaboration (without any obligation).  We will arrange an online AGORA session in the Thursday afternoon, May 9 to share our progress with the registered remote participants in the US and European time zones. </p>
 
 <div style="display: flex; justify-content: center; align-items: center; height: 100%;">
     <iframe width="700" height="590" frameborder="0" scrolling="no" src="https://onedrive.live.com/embed?resid=566141491218E6C9%211836&authkey=%21AN_z1_bMQcOO5D4&em=2&wdAllowInteractivity=False&Item='Program%20at%20a%20glance'!A1%3AF18&wdHideGridlines=True&wdDownloadButton=True&wdInConfigurator=True&wdInConfigurator=True"></iframe>
