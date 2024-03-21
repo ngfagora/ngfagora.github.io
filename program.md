@@ -40,7 +40,7 @@ title: Program
 
 <div class="post">
 <h4>Program at a Glance</h4>
-	<p>The first part of the meeting (May 7-8) will be the 5th Numerical Galaxy Formation (NGF) Meeting in Korea, and the the second part of the meeting (May 9-10) will be the AGORA mini-workshop, taking place between the annual workshops in August.  While non-AGORA members are welcome to join the <a href="http://www.agorasimulations.org/" target="_blank">AGORA</a> portion of the week, we encourage them to kindly <a href="https://sites.google.com/site/santacruzcomparisonproject/about#h.aisumosqg4mr" target="_blank">sign up</a>  for the Collaboration (without any obligation).  We will arrange an online AGORA session in the Thursday afternoon, May 9 to share our progress with the registered remote participants in the US and European time zones. </p>
+	<p>The first part of the meeting (May 7-8) will be the 5th Numerical Galaxy Formation (NGF) Meeting in Korea, and the the second part of the meeting (May 9-10) will be the <a href="http://www.agorasimulations.org/" target="_blank">AGORA</a>  mini-workshop, taking place between the annual workshops in August.  While non-AGORA members are welcome to join the AGORA portion of the week, we encourage them to kindly <a href="https://sites.google.com/site/santacruzcomparisonproject/about#h.aisumosqg4mr" target="_blank">sign up</a>  for the Collaboration (without any obligation).  We will arrange an online AGORA session on May 9 to share our progress with the registered remote participants in the US and European time zones. </p>
 
 <div style="display: flex; justify-content: center; align-items: center; height: 100%;">
     <iframe width="700" height="590" frameborder="0" scrolling="no" src="https://onedrive.live.com/embed?resid=566141491218E6C9%211836&authkey=%21AN_z1_bMQcOO5D4&em=2&wdAllowInteractivity=False&Item='Program%20at%20a%20glance'!A1%3AF18&wdHideGridlines=True&wdDownloadButton=True&wdInConfigurator=True&wdInConfigurator=True"></iframe>
@@ -71,7 +71,7 @@ title: Program
 		    <img src="{{ '/assets/img/Primack.jpg' | relative_url }}" alt="Primack and Abrams" style="margin-left: 20px;">
 		</a>
         </div>
-	<p>On May 7 (Tue) Prof. Joel R. Primack will give a Special CTP+SNUARC Colloquium titled "Modern Cosmology: the View from the Center of the Universe" aimed at both scientists and the science-interested public.  
+	<p>On May 7 (Tue) Prof. Joel R. Primack will give a Special CTP+SNUARC Colloquium titled <i> "Modern Cosmology: the View from the Center of the Universe" </i> aimed at both scientists and the science-interested public.  
 		This Colloquium is jointly organized by the <a href="https://ctp.snu.ac.kr/" target="_blank">Center for Theoretical Physics</a> (CTP) 
 		at <a href="https://en.snu.ac.kr/" target="_blank">Seoul National University</a> (SNU), and the 
 		<a href="https://astron.snu.ac.kr/en/천문우주센터/" target="_blank">SNU Astronomy Research Center</a> (SNUARC). 
@@ -105,7 +105,8 @@ title: Program
 		where the vast domed ceiling comes alive with the dazzling display of the night sky.  
 		The tour will also feature a short film about the efforts to learn about our universe, made for the dome projection. 
 		More information about this visit at the end of the NGF portion of the week will be avaialble during the workshop.</p>	
-	<h4>Detailed Program / Talk Schedule (Tentative)</h4>
+	
+	<h4>Detailed Program / Talk Schedule </h4>
 	<p>To be fully finalized and announced in late March, 2024. </p>		
 	
 </div>
