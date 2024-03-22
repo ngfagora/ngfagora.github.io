@@ -107,7 +107,7 @@ title: Program
 		More information about this visit at the end of the NGF portion of the week will be avaialble during the workshop.</p>	
 	
 	<h4>Detailed Program / Talk Schedule </h4>
-	<p>To be fully finalized and announced in late March, 2024. </p>		
+	<p>We encourage young researchers -- students and postdocs -- to use this opportunity to present their research!  (Talks are: Faculties = 20min + 5min Q&A, Postdocs = 16min + 4min Q&A, Students = 12min + 3min Q&A.)   </p>		
 	
 </div>
 
