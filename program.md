@@ -112,14 +112,14 @@ title: Program
 </div>
 
 <div style="display: flex; justify-content: center; align-items: center; height: 100%;">
-	<iframe width="840" height="2150" frameborder="0" scrolling="no" src="https://onedrive.live.com/embed?resid=566141491218E6C9%211836&authkey=%21AN_z1_bMQcOO5D4&em=2&wdAllowInteractivity=False&Item='Detailed%20program%20Talk%20(JHK%20ver)'!A1%3AD94&wdHideGridlines=True&wdDownloadButton=True&wdInConfigurator=True&wdInConfigurator=True"></iframe>
+	<iframe width="840" height="2100" frameborder="0" scrolling="no" src="https://onedrive.live.com/embed?resid=566141491218E6C9%211836&authkey=%21AN_z1_bMQcOO5D4&em=2&wdAllowInteractivity=False&Item='Detailed%20program%20Talk%20(JHK%20ver)'!A1%3AD94&wdHideGridlines=True&wdDownloadButton=True&wdInConfigurator=True&wdInConfigurator=True"></iframe>
+    <br>
+    <hr style="width:30%", align="center"> 
+    <br>
 </div>
 
 
 <p>
-    <br>
-    <hr style="width:30%", align="center"> 
-    <br>
 </p>
         <img src="{{ '/assets/img/colloquimm_poster.jpg' | relative_url }}" alt="workshop_poster" style="display: block; margin: auto; width: 75%;">
         <p align="center">If you'd like to view the entire photo featured on the poster, please click <a href="{{ '/mongolia_picture.html' | relative_url }}" target="_blank">here</a>.</p>
