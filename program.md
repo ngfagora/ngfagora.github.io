@@ -121,6 +121,6 @@ title: Program
   
 <p></p>
         <img src="{{ '/assets/img/colloquimm_poster.jpg' | relative_url }}" alt="workshop_poster" style="display: block; margin: auto; width: 75%;">
-        <p align="center">If you'd like to view the entire photo featured on the workshop poster, please click <a href="{{ '/mongolia_picture.html' | relative_url }}" target="_blank">here</a>.</p>
+        <p align="center">If you'd like to view the entire photo featured on the poster, please click <a href="{{ '/mongolia_picture.html' | relative_url }}" target="_blank">here</a>.</p>
 <br>
 <br>
