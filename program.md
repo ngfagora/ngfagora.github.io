@@ -71,7 +71,7 @@ title: Program
 		    <img src="{{ '/assets/img/Primack.jpg' | relative_url }}" alt="Primack and Abrams" style="margin-left: 20px;">
 		</a>
         </div>
-	<p>On May 7 (Tue) Prof. Joel R. Primack will give a Special CTP+SNUARC Colloquium titled <i> "Modern Cosmology: the View from the Center of the Universe" </i> aimed at both scientists and the science-interested public.  
+	<p>On May 7 (Tue) Prof. Joel R. Primack will give a Special CTP+SNUARC Colloquium titled <i> "Modern Cosmology: the View from the Center of the Universe" </i> aimed at both scientists and the science-interested public (see the bottom of this page for the poster and the abstract).  
 		This Colloquium is jointly organized by the <a href="https://ctp.snu.ac.kr/" target="_blank">Center for Theoretical Physics</a> (CTP) 
 		at <a href="https://en.snu.ac.kr/" target="_blank">Seoul National University</a> (SNU), and the 
 		<a href="https://astron.snu.ac.kr/en/천문우주센터/" target="_blank">SNU Astronomy Research Center</a> (SNUARC). 
